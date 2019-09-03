@@ -10,9 +10,9 @@ In this repository, you will find a single PHP files that you need to customize 
 This section will be formatted in a step by step process
 
  1. Download the "up.php" file from this repository and extract it out of the zip file
- 2. Open the files in your text editor and you should see this: ![up.php file](https://web.jessicasworld.cf/cdn/f2qn89kl.png)
+ 2. Open the files in your text editor and you should see this: ![up.php file](https://www.jessicasworld.cf/cdn/f2qn89kl.png)
 3. Please direct your attention to lines 2 through 5!
-![Lines 2-5](https://web.jessicasworld.cf/cdn/spudyedd.png)
+![Lines 2-5](https://www.jessicasworld.cf/cdn/spudyedd.png)
 4. On "$secret_key" change the value to a secure password that you'd like to use, it can also be random letters and numbers, as long as you can copy and paste.
 5. On "$sharexdir" you can leave this value blank.
 6. On "domain_url" change the value to the website URL where you plan on storing the up.php file.
@@ -27,7 +27,7 @@ This section will be formatted in a step by step process
 15. Set the file form name to "sharex"
 16. Add a new argument named "secret" and set the value to the secret key you have set in the up.php file
 17. When you're finished, your configuration should look like this:
-![ShareX custom uploader configuration](https://web.jessicasworld.cf/cdn/7cdc1258.png)
+![ShareX custom uploader configuration](https://www.jessicasworld.cf/cdn/7cdc1258.png)
 18. Configuration is finished! Make sure you have ShareX set to use this custom uploader and it should work. 
 
 ## Questions
