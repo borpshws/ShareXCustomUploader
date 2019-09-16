@@ -2,9 +2,9 @@
 In this repository, you will find a single PHP file that you need to customize in order to set up a custom uploader properly.
 
 ## Requirements
- 1. A text editor that can export PHP files such as Sublime Text or Notepad++
- 2. A web host that does not block JavaScript or check for it
- 3. ShareX Client
+ 1. A text editor that can export PHP files such as Sublime Text or Notepad++.
+ 2. A web host that does not block JavaScript or check for it.
+ 3. ShareX Client, it's recommended to use a version 12.2 or below and afterwards update your client.
 
 ## Usage
 This section will be formatted in a step by step process
