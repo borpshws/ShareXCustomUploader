@@ -1,5 +1,5 @@
 ## ShareX Custom Uploader PHP File
-In this repository, you will find a single PHP files that you need to customize in order to set up a custom uploader properly.
+In this repository, you will find a single PHP file that you need to customize in order to set up a custom uploader properly.
 
 ## Requirements
  1. A text editor that can export PHP files such as Sublime Text or Notepad++
