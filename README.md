@@ -1,4 +1,4 @@
-## ShareX Custom Uploader PHP File
+## ShareX Custom Uploader PHP File ![php](https://img.shields.io/badge/php-hypertext%20preprocessor-blueviolet?style=flat-square&logo=php&logoColor=white)
 In this repository, you will find a single PHP file that you need to customize in order to set up a custom uploader properly.
 
 ## Requirements
